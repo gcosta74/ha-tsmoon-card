@@ -1,3 +1,31 @@
 {
-
+  "common": {
+    "version": "Versione",
+    "title": "Fasi lunari",
+    "title_card": "Mappa semplice delle fasi lunari",
+    "description": "Una semplice mappa per visualizzare le fasi lunari.",
+    "invalid_configuration": "Configurazione invalida"
+  },
+  "editor": {
+    "moon_entity": "Entità Lunare (Opzionale)"
+  },
+  "errors": {
+    "missing_moon_entity": "Sensore die luna mancante.",
+    "invalid_icon_type": "Tipo di icona errato"
+  },
+  "card": 
+    "moon_phase": "Fase lunare",
+    "moon_rise": "Alba",
+    "moon_set": "Tramonto"
+  },
+  "moon": {
+    "new_moon": "Luna nuova",
+    "waxing_crescent": "Luna crescente",
+    "first_quarter": "Primo quarto",
+    "waxing_gibbous": "Gibbosa crescente",
+    "full_moon": "Luna piena",
+    "waning_gibbous": "Gibbosa calante",
+    "last_quarter": "Ultimo quarto",
+    "waning_crescent": "Mezzaluna calante"
+  }
 }
